@@ -37,6 +37,7 @@
   },
   "require-dev": {
     "raveren/kint": "^1.0",
+    "phpunit/phpunit-selenium": "3.0.*",
     "phpunit/phpunit": "^5.0"
   }
 }

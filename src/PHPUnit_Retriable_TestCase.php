@@ -12,7 +12,7 @@
      * @author Art <a.molcanovas@gmail.com>
      * @link https://github.com/Alorel/phpunit-auto-rerun/#configuration
      */
-    class PHPUnit_Retriable_TestCase extends PHPUnit_Framework_TestCase {
+    class PHPUnit_Retriable_Selenium2TestCase extends PHPUnit_Extensions_Selenium2TestCase {
 
         /**
          * How many seconds to sleep between retries
